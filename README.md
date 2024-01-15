@@ -8,4 +8,3 @@ After preprocess and tokenize the data, we use them to fine-tune the pre-trained
 ## Usage
 1. Change the file path of dataset.
 2. Run the codes. (You can skip some of the code blocks if there are not any problems of memory or CPU/GPU resources.)
-3. Analysis (Bertviz)
